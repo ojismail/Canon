@@ -1,96 +1,67 @@
 # Canon
 
----
+🚀 Startups & Product
+Do Things That Don’t Scale — Hand-cranked early hustle is often the only viable growth engine.
 
-## Foundations
+Build Something People Want — YC’s core motto: PMF is the only non-negotiable.
 
-- [The Cathedral and the Bazaar](http://www.catb.org/~esr/writings/cathedral-bazaar/) – Eric S. Raymond  
-  Open source and decentralized development.
+The Only Thing That Matters — When PMF snaps into place, everything else is tactics.
 
-- [How to Design Programs](https://htdp.org/) – Felleisen et al.  
-  A structured approach to programming education.
+Good PM / Bad PM — A still-brutal scorecard for product leadership.
 
-- [Simple Made Easy (Talk)](https://www.infoq.com/presentations/Simple-Made-Easy/) – Rich Hickey  
-  Simplicity vs ease in software design ([Transcript](https://gist.github.com/jlongster/2428561)).
+Superhuman’s PMF Engine — A quantified playbook for measuring “very disappointed” users.
 
----
+💻 Software Engineering
+Programming in the 21st Century — Why progress feels slow even amid dizzying change.
 
-## Startups & Product
+The Mythical Man-Month (PDF) — Adding developers to a late project makes it later.
 
-- [Do Things That Don’t Scale](https://www.paulgraham.com/ds.html) – Paul Graham  
-  Manual early effort that kickstarts growth.
+No Silver Bullet (PDF) — No tech or method will 10× software productivity overnight.
 
-- [Build Something People Want](https://www.paulgraham.com/good.html) – Paul Graham  
-  The essence of product-market fit.
+YAGNI — “You Aren’t Gonna Need It” saves teams from speculative complexity.
 
-- [The Only Thing That Matters](https://pmarchive.com/guide_to_startups_part4.html) – Marc Andreessen  
-  PMF as the one critical thing.
+The Law of Leaky Abstractions — Every abstraction fails at the worst moment—be ready.
 
-- [Good PM / Bad PM](https://a16z.com/2012/06/15/good-product-managerbad-product-manager/) – Ben Horowitz  
-  Clear lines between accountability and mediocrity.
+Simple Made Easy (transcript) — Simplicity (objective) ≠ ease (subjective).
 
----
+What Every Programmer Should Know About Memory (PDF) — Latency, caches, and why your tight loop isn’t.
 
-## 💻 Software Engineering 
+🛠 Systems Design
+The Datacenter as a Computer (PDF) — Google’s blueprint for warehouse-scale machines.
 
-- [Programming in the 21st Century](http://prog21.dadgum.com/) – James Hague  
-  On stagnation and genuine progress.
+End-to-End Arguments in System Design (PDF) — Push intelligence to the edge for robustness.
 
-- [The Mythical Man-Month (PDF)](https://www.cs.unc.edu/~brooks/MMM.pdf) – Fred Brooks  
-  Coordination problems in big teams.
+Notes on Distributed Systems for Young Bloods — Hard-won heuristics for engineers who like all their fingers.
 
-- [YAGNI](https://martinfowler.com/bliki/Yagni.html) – Martin Fowler  
-  The case for not overengineering.
+MapReduce (PDF) — The pattern that let Google sweep data at planetary scale.
 
-- [The Law of Leaky Abstractions](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/) – Joel Spolsky  
-  Abstractions are always imperfect.
+The Google File System (PDF) — Commodity disks plus smart replication > million-dollar arrays.
 
----
+CAP Twelve Years Later (PDF) — Brewer revisits consistency/availability trade-offs with nuance.
 
-## ⚙️ Systems Design
+🎨 Craft & Culture
+The Art of Unix Programming — Small, composable tools as an ethos.
 
-- [The Datacenter as a Computer](https://research.google/pubs/archive/41854.pdf) – Barroso & Hölzle  
-  Google’s infrastructure thinking.
+Teach Yourself Programming in Ten Years — Mastery is deliberate practice, not weekend sprints.
 
-- [Notes on Distributed Systems for Young Bloods](https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/) – Jeff Hodges  
-  Pragmatic insights for distributed computing.
+Making Wrong Code Look Wrong — Visual conventions as lightweight static analysis.
 
-- [Designing a Good API](https://lcsd05.cs.tamu.edu/slides/keynote.pdf) – Joshua Bloch  
-  What makes an interface usable.
+The Next Big Language — Why popularity, not elegance, crowns languages.
 
-- [The Architecture of Open Source Applications](https://aosabook.org/) – Amy Brown (Ed.)  
-  How real systems are built.
+On the Cruelty of Really Teaching Computer Science (PDF) — Dijkstra’s case for radical rigor over cargo-cult coding.
 
----
+🌍 Vision & Impact
+Why Software Is Eating the World (PDF) — Every industry is morphing into a software business.
 
-## Craft
+The Computer for the 21st Century (PDF) — Weiser’s prescient manifesto of ubiquitous computing.
 
-- [The Art of Unix Programming](http://www.catb.org/esr/writings/taoup/html/) – Eric S. Raymond  
-  The Unix philosophy and composability.
+The Coming Software Apocalypse — On code fragility and why tools must evolve.
 
-- [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html) – Peter Norvig  
-  Realistic paths to mastery.
+Bitcoin Whitepaper (PDF) — Trustless consensus rewires money itself.
 
-- [The Next Big Language](https://steve-yegge.blogspot.com/2007/02/next-big-language.html) – Steve Yegge  
-  What makes a language thrive.
+Reflections on Trusting Trust (PDF) — Even compilers can hide backdoors; trust people, not binaries.
 
-- [Making Wrong Code Look Wrong](https://www.joelonsoftware.com/2005/05/11/making-wrong-code-look-wrong/) – Joel Spolsky  
-  Visual patterns for bugs and smells.
+Floating-Point Arithmetic (PDF) — Why computers can’t quite do real-number math.
 
----
+Inventing on Principle (transcript) — Bret Victor on letting personal principles steer your inventions.
 
-## Miscellaneous 
-
-- [Why Software Is Eating the World](https://a16z.com/2011/08/20/why-software-is-eating-the-world/) – Marc Andreessen  
-  Software’s dominance across industries.
-
-- [The Coming Software Apocalypse](https://www.theatlantic.com/technology/archive/2017/09/saving-the-world-from-code/540393/) – James Somers  
-  Fragility and complexity in modern systems.
-
-- [Floating Point Arithmetic](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html) – David Goldberg  
-  Why computers can't do math (perfectly).
-
-- [Reflections on Trusting Trust](https://dl.acm.org/doi/10.1145/358198.358210) – Ken Thompson  
-  The root of all software trust problems.
-
----
