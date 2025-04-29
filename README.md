@@ -2,7 +2,7 @@
 
 ---
 
-## 📚 Foundational Philosophy
+## Foundations
 
 - [The Cathedral and the Bazaar](http://www.catb.org/~esr/writings/cathedral-bazaar/) – Eric S. Raymond  
   Open source and decentralized development.
@@ -15,7 +15,7 @@
 
 ---
 
-## 🚀 Startup & Product Thinking
+## Startups & Product
 
 - [Do Things That Don’t Scale](https://www.paulgraham.com/ds.html) – Paul Graham  
   Manual early effort that kickstarts growth.
@@ -31,7 +31,7 @@
 
 ---
 
-## 💻 Software Engineering & Dev Culture
+## 💻 Software Engineering 
 
 - [Programming in the 21st Century](http://prog21.dadgum.com/) – James Hague  
   On stagnation and genuine progress.
@@ -47,7 +47,7 @@
 
 ---
 
-## ⚙️ Systems Design & Architecture
+## ⚙️ Systems Design
 
 - [The Datacenter as a Computer](https://research.google/pubs/archive/41854.pdf) – Barroso & Hölzle  
   Google’s infrastructure thinking.
@@ -63,7 +63,7 @@
 
 ---
 
-## 🛠 Programming Practice & Craft
+## Craft
 
 - [The Art of Unix Programming](http://www.catb.org/esr/writings/taoup/html/) – Eric S. Raymond  
   The Unix philosophy and composability.
@@ -79,7 +79,7 @@
 
 ---
 
-## 🔥 Modern Classics & Reflections
+## Miscellaneous 
 
 - [Why Software Is Eating the World](https://a16z.com/2011/08/20/why-software-is-eating-the-world/) – Marc Andreessen  
   Software’s dominance across industries.
