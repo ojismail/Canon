@@ -1,13 +1,11 @@
 # Canon
 
-# Canon
-
 ## Startups & Product
 
 1. [Do Things That Don’t Scale](https://www.paulgraham.com/ds.html)
 2. [Build Something People Want](https://www.ycombinator.com/library/4A-build-something-people-want)
 3. [The Only Thing That Matters](https://www.paulgraham.com/growth.html)
-4. [Good PM / Bad PM](https://a16z.com/2012/08/20/good-product-managerbad-product-manager/)
+4. [Good PM / Bad PM] (https://a16z.com/good-product-manager-bad-product-manager/)
 6. [PMarchive](https://pmarchive.com/)
 
 
